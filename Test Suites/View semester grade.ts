@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite (1)</name>
+   <name>View semester grade</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>e7fba6ff-8188-4ba6-b1a4-d29052ffb911</testSuiteGuid>
+   <testSuiteGuid>8c1dd78a-9cbd-4596-9897-a2111769f17f</testSuiteGuid>
    <testCaseLink>
-      <guid>4b8f5106-354d-46b8-8c22-01ed66a8caaa</guid>
+      <guid>10f32e1d-7e8e-49cb-b771-ac572dd6eb90</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Usm view profile</testCaseId>
+      <testCaseId>Test Cases/Usm view semester grade</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

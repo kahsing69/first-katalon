@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite</name>
+   <name>View Profile</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>8758b99d-b989-4558-811f-75fd58b88d38</testSuiteGuid>
+   <testSuiteGuid>e7fba6ff-8188-4ba6-b1a4-d29052ffb911</testSuiteGuid>
    <testCaseLink>
-      <guid>9a29586c-87ee-45c5-b9f7-51212e867073</guid>
+      <guid>4b8f5106-354d-46b8-8c22-01ed66a8caaa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Usm view mycsd</testCaseId>
+      <testCaseId>Test Cases/Usm view profile</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
